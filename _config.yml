@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-qvgzz&psig=AOvVaw2MkzkhmwP7a-EKN3P3ijV3&ust=1721635776871000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLixkJrXt4cDFQAAAAAdAAAAABAK
+avatar: pxfuel.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
