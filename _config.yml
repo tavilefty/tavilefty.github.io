@@ -16,7 +16,7 @@ timezone: Asia/Calcutta
 
 title: 1ndr4 # the main title
 
-tagline: i linux and security enthusiast # it will display as the sub-title
+tagline: a linux geek and security enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Write-ups of any labs, rooms or boxes i solve. sometimes CTFs too.
@@ -38,7 +38,7 @@ social:
   email: tavilefty666@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://discord.gg/NBYYp8qn # change to your twitter homepage
     - https://github.com/tavilefty # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -96,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/pxfuel.jpg
+avatar: https://avatars.githubusercontent.com/u/64775672?s=400&u=c32f96986239fbcdda2f7b95c89192536cb2dd40&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
