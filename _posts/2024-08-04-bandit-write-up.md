@@ -35,8 +35,8 @@ lemme change the lingo for newbies. so when you wanna log into a website what do
 1. you open browser, be it chrome, brave or safari etc.<br>
 here you got a command line and an SSH client, for mac or any linux distro, use [openSSH](https://www.openssh.com/) or for windows, use [PuTTY](https://putty.org/).
 2. you type in a link - a URL - a host to connect to.<br>
-here you put a host: [**`bandit.labs.overthewire.org`**](http://bandit.labs.overthewire.org)
-3. you go to login page and type in your username & password.<br>
+here you put a host: **`bandit.labs.overthewire.org`**.
+1. you go to login page and type in your username & password.<br>
 here its `bandit0` and `bandit0`.
     
 few more things to note:
