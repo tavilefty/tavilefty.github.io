@@ -12,13 +12,13 @@ image:
 
 its meant for beginners but as someone with some knowledge of linux it was challenging for me too. this wargame series is amazing as it slowly increases the difficulty and by the end you’ll have a good knowledge of linux and then we can move to the next wargames.
 
+---
+<br>
 ## bandit 0
     
 we’ve to log into the ssh server to be able to play the games.
-    
-we’re given the ssh server [**`bandit.labs.overthewire.org`](http://bandit.labs.overthewire.org)** and the port `2220`.
-    
-username is **`bandit0`** and password is **`bandit0`**.
+we’re given the ssh server **`bandit.labs.overthewire.org`** and the port **`2220`**.<br>
+username is **`bandit0`** and password is **`bandit0`**.<br>
     
 ### what’s SSH?
     
@@ -32,11 +32,11 @@ why not a GUI? because sending that much data, those pixels etc. will take a lot
     
 lemme change the lingo for newbies. so when you wanna log into a website what do you do?
     
-1. you open browser, be it chrome, brave or safari etc.
+1. you open browser, be it chrome, brave or safari etc.<br>
 here you got a command line and an SSH client, for mac or any linux distro, use [openSSH](https://www.openssh.com/) or for windows, use [PuTTY](https://putty.org/).
-2. you type in a link - a URL - a host to connect to.
+2. you type in a link - a URL - a host to connect to.<br>
 here you put a host: [**`bandit.labs.overthewire.org`**](http://bandit.labs.overthewire.org)
-3. you go to login page and type in your username & password.
+3. you go to login page and type in your username & password.<br>
 here its `bandit0` and `bandit0`.
     
 few more things to note:
@@ -61,3 +61,5 @@ you then get access:
 what i did here is listed the files in the directory i am in using `ls` (list) and see a file `readme` and i read its content using `cat readme`. cat command seems cute but it reads the content of a file, cat means concatenate, to read out contents of a file basically.
     
 and we get the password: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`.
+
+---
